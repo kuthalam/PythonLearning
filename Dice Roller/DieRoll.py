@@ -1,6 +1,6 @@
 import random
 
-sidesOfADie = [1, 2, 3, 4, 5, 6]
+sidesOfADie = (1, 2, 3, 4, 5, 6)
 choice = ''
 
 while (choice != 'N' and choice != 'n'):
